@@ -33,4 +33,4 @@ of any Large Language Models. All of the work is my own, except where stated
 otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
 suspected, charges may be filed against me without prior notice.”
 
-For this assignment, I asked Chat GPT for help articulating and formatting the reasoning for my conclusion.
+For this assignment, I asked Chat GPT for help articulating and formatting the reasoning for my conclusion. I also used the website (upyesp)[https://www.upyesp.org/posts/makrdown-vscode-math-notation/] as a quick guide for adding mathematical expressions.
